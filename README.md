@@ -1,2 +1,2 @@
-# update-pass-user-plugin
-Wordpress update pass users plugin
+# rescue-user-plugin
+Users password rescue
